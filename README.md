@@ -11,3 +11,8 @@ Now the changes are meant for local repo
 
 Sample website with plenty of files for demos
 
+## Changes
+
+This is the change for keeping the file in Staging area.
+
+Under changes this is keeping the file untracked.
