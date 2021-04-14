@@ -16,3 +16,7 @@ Sample website with plenty of files for demos
 This is the change for keeping the file in Staging area.
 
 Under changes this is keeping the file untracked.
+
+### Copright
+
+A copyright of a company 2004
